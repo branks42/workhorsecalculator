@@ -126,4 +126,3 @@ keys.addEventListener('click', e => {
   updateCalculatorState(key, calculator, resultString, displayedNum)
   updateVisualState(key, calculator)
 })
-//END
