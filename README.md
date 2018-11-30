@@ -1,2 +1,2 @@
 # workhorsecalculator
-Fully functioning javascript calculator
+Fully Functioning Javascript Calculator
